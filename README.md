@@ -9,16 +9,17 @@
 
 
 Запуск проекта:
-git clone https://github.com/marianazarov/E6.9.git
-cd E6.9
-pip install -r requirements.txt
-python -m venv venv
-venv\scripts\activate
-pip install django
-pip install djangorestframework
-pip install daphne
-pip install channels
-pip install django-cors-headers
-pip install easy-thumbnails
-cd E6.9
-python manage.py runserver
+1. git clone https://github.com/marianazarov/E6.9.git
+2. cd E6.9
+3. pip install -r requirements.txt
+4. Открываем в PC
+5. python -m venv venv
+6. venv\scripts\activate
+7. pip install django
+8. pip install djangorestframework
+9. pip install daphne
+10. pip install channels
+11. pip install django-cors-headers
+12. pip install easy-thumbnails
+13. cd E6.9
+14. python manage.py runserver
